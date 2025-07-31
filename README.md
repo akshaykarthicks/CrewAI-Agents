@@ -2,6 +2,9 @@
 
 A multi-agent AI system for financial research and analysis, powered by [crewAI](https://crewai.com). This project automates the process of researching and reporting on companies using specialized AI agents and web search tools.
 
+<img width="1785" height="922" alt="image" src="https://github.com/user-attachments/assets/976ab531-26e2-4348-a8b6-685a8705a6bc" />
+
+
 ---
 
 ## Features
